@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/MATHSTATSOU/MATH4793STEWART
 BugReports: https://github.com/MATHSTATSOU/MATH4793STEWART/issues
+RoxygenNote: 7.1.1
