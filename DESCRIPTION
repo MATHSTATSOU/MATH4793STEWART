@@ -1,14 +1,17 @@
 Package: MATH4793STEWART
 Type: Package
-Title: What the Package Does (Title Case)
+Title: MATH 4793 R functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Dr Wayne Stewart
+Maintainer: Wayne Stewart <wayne.s.stewart@ou.edu>
+Description: This contains R functions and documentation for projects.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/MATHSTATSOU/MATH4793STEWART
 BugReports: https://github.com/MATHSTATSOU/MATH4793STEWART/issues
 RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
